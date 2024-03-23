@@ -160,6 +160,9 @@ Step 5: If you desire a path to be made, then chatgpt will have outputed the pat
 
 For more information, see the donkey car framework on running with your own car. When manage.py runs, use x to zero the car, b to load a path, and double tap start for the car to follow the path.
 
+Here is a link to a google photos page which has several videos of our robot operating:
+https://photos.google.com/u/0/share/AF1QipNbnRdItg1uGULNdo4saggAoKI3nbOa-YogXLWNfc9HYORkTFDVzfL07XVTVJIqRg?key=WGtpSk1jdEJXZjJ6cHpObENFQU9MSzItVG1jOXN3
+
 <!-- Authors -->
 ## Authors
 Jason, Jesse, Maahir, Alexander
